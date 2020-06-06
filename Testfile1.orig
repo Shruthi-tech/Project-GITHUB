@@ -1,0 +1,10 @@
+int=a;
+int=b
+<<<<<<< HEAD
+int=c
+int d=a+b
+=======
+int c
+int d=a+b+c
+>>>>>>> 22f7f0b... Firstcommi p2
+print ("d");
